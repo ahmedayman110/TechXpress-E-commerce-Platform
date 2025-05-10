@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TechXpress-E-commerce-Platform
+/.vs/TechXpress
+/.vs/ProjectEvaluation
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/bin/Debug/net8.0
+/appsettings.json
