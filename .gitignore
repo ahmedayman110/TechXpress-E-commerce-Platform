@@ -2,8 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/TechXpress Final/CopilotIndices/17.13.444.19527/SemanticSymbols.db
-/.vs/TechXpress Final/CopilotIndices/17.13.444.19527/CodeChunks.db
-/.vs/TechXpress Final/v17/.wsuo
-/.vs/TechXpress Final/v17/DocumentLayout.backup.json
-/.vs/TechXpress Final/v17/DocumentLayout.json
+/.vs/TechXpress-E-commerce-Platform
+/.vs/TechXpress
+/.vs/ProjectEvaluation
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/bin/Debug/net8.0
+/appsettings.json
